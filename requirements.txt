@@ -1,0 +1,4 @@
+pygame===2.1.2
+requests-html===0.10.0
+pillow===9.0.1
+pywin32===303

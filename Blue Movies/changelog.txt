@@ -1,9 +1,0 @@
-v1.0.0 
--Initial release
-
-v1.0.1
--Bug fixes 
--Quality of life changes
--Improved video buffering
--Added the changelog 
-
